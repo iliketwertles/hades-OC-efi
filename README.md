@@ -1,6 +1,19 @@
 # hades-OC-efi
-DO NOT DOWNLOAD (hackintosh efi for my desktop)   
+**DO NOT DOWNLOAD** (hackintosh efi for my desktop)   
 this is mainly for me to have a off-site backup however there are some funky things i did that i consider worth sharing  
+
+# **DO NOT DOWNLOAD**
+please :3  
+you will only cause more problems if you install this, there is no promise to keep this up to date, it is just a working concept for me. i don't like gatekeeping information tho
+
+## Specs
+i5 3570s  
+rx 580(2048sp)[lspci output]/rx 590 gme[glxinfo output]  
+16gb ddr3 ram  
+kingston ssd for storage in macos  
+6 series motherboard, not sure chipset  
+350W psu  
+supported intel ethernet  
 
 ## Getting gpu working
 this applies for some supported* amd gpus, for example, asus rx 580 2048sp  
